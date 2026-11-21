@@ -1,8 +1,10 @@
-# tfastdigital — UnlockTool Loader (`v1.0.6`)
+# UnlockTool Loader — Full Setup (`v1.0.6 / 2026.11.17.0`)
 
-Official public download page and release notes for **tfastdigital** (Made with Love from Uganda 🇺🇬).
+Official public download page and release notes for **tfastdigital UnlockTool Loader** (Made with Love from Uganda 🇺🇬).
 
-- **Download Latest Release:** [TfastDigitalLoader.exe (v1.0.6 / UnlockTool 2026.11.17.0)](https://github.com/tfastdigital/tfastdigital-unlocktool/releases/latest)
+- **Official Portal Page:** [https://tfastunlocker.com/unlocktool-loader](https://tfastunlocker.com/unlocktool-loader)
+- **Download Full All-in-One Setup (UnlockTool 2026.11.17.0 + Loader):** [tfastdigital-UnlockTool-2026.11.17.0-Setup.exe](https://github.com/tfastdigital/tfastdigital-unlocktool/releases/download/v1.0.6-2026.11.17.0/tfastdigital-UnlockTool-2026.11.17.0-Setup.exe)
+- **Download Loader Only:** [TfastDigitalLoader.exe](https://github.com/tfastdigital/tfastdigital-unlocktool/releases/download/v1.0.6-2026.11.17.0/TfastDigitalLoader.exe)
 - **License & Activation Bot:** [@tfastunlocker_bot](https://t.me/tfastunlocker_bot)
 - **Official Telegram Channel:** [@tfasthub](https://t.me/tfasthub)
 - **YouTube:** [@TfastDigital](https://www.youtube.com/@TfastDigital)
@@ -14,8 +16,8 @@ Official public download page and release notes for **tfastdigital** (Made with 
 
 1. Join the official Telegram channel **[@tfasthub](https://t.me/tfasthub)**.
 2. Open **[@tfastunlocker_bot](https://t.me/tfastunlocker_bot)** and generate your PC license key.
-3. Download **`TfastDigitalLoader.exe`** from [Releases](https://github.com/tfastdigital/tfastdigital-unlocktool/releases/latest) and run it as Administrator.
-4. Accept the Terms & Conditions, paste your license key to activate, select your license tier, and click **START**.
+3. Download and run **`tfastdigital-UnlockTool-2026.11.17.0-Setup.exe`** as Administrator (installs both **UnlockTool 2026.11.17.0** and **tfastdigital Loader**).
+4. Launch **tfastdigital Loader**, accept the Terms & Conditions, paste your license key to activate, and click **START**.
 
 ---
 
