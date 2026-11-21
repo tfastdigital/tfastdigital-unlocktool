@@ -21,6 +21,14 @@ Official public download page and release notes for **tfastdigital UnlockTool Lo
 
 ---
 
+## Video Setup & Activation Guide
+
+[![Watch UnlockTool 2026.11.17.0 Full Setup & Free Activation Guide](https://img.youtube.com/vi/8Vv6ZlgoBL0/hqdefault.jpg)](https://youtu.be/8Vv6ZlgoBL0)
+
+▶ **[Watch Step-by-Step Setup & Activation Guide on YouTube](https://youtu.be/8Vv6ZlgoBL0)**
+
+---
+
 ## Screenshots
 
 | tfastdigital Loader + UnlockTool | UnlockTool Opened |
