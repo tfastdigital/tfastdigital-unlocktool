@@ -21,6 +21,14 @@ Official public download page and release notes for **tfastdigital UnlockTool Lo
 
 ---
 
+## Screenshots
+
+| tfastdigital Loader + UnlockTool | UnlockTool Opened |
+| --- | --- |
+| ![tfastdigital Loader with UnlockTool](screenshots/with-loader.png) | ![UnlockTool Opened](screenshots/opened-tool.png) |
+
+---
+
 ## Release Notes — UnlockTool
 
 - **Version:** `2026.11.17.0`
