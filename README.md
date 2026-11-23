@@ -1,10 +1,11 @@
-# UnlockTool Loader — Full Setup (`v1.0.6 / 2026.11.17.0`)
+# UnlockTool Loader — Full Setup (`v1.0.8 / 2026.11.23.0`)
 
 Official public download page and release notes for **tfastdigital UnlockTool Loader** (Made with Love from Uganda 🇺🇬).
 
+- **Last Updated:** `Nov. 23, 2026` (`v1.0.8`)
 - **Official Portal Page:** [https://tfastunlocker.com/unlocktool-loader](https://tfastunlocker.com/unlocktool-loader)
-- **Download Full All-in-One Setup (UnlockTool 2026.11.17.0 + Loader):** [tfastdigital-UnlockTool-2026.11.17.0-Setup.exe](https://github.com/tfastdigital/tfastdigital-unlocktool/releases/download/v1.0.6-2026.11.17.0/tfastdigital-UnlockTool-2026.11.17.0-Setup.exe)
-- **Download Loader Only:** [TfastDigitalLoader.exe](https://github.com/tfastdigital/tfastdigital-unlocktool/releases/download/v1.0.6-2026.11.17.0/TfastDigitalLoader.exe)
+- **Download Full All-in-One Setup (UnlockTool 2026.11.17.0 + Loader v1.0.8, 310 MB):** [UnlockTool-loader ALLINONE V1.0.8 -2026.11.23.0-Setup.exe](https://github.com/tfastdigital/tfastdigital-unlocktool/releases/download/v1.0.8-2026.11.17.0/UnlockTool-loader.ALLINONE.V1.0.8.-2026.11.23.0-Setup.exe)
+- **Download Loader Only (85 MB):** [tfastdigital Unlocktool loader v1.0.8.exe](https://github.com/tfastdigital/tfastdigital-unlocktool/releases/download/v1.0.8-2026.11.17.0/tfastdigital.Unlocktool.loader.v1.0.8.exe)
 - **License & Activation Bot:** [@tfastunlocker_bot](https://t.me/tfastunlocker_bot)
 - **Official Telegram Channel:** [@tfasthub](https://t.me/tfasthub)
 - **YouTube:** [@TfastDigital](https://www.youtube.com/@TfastDigital)
@@ -16,8 +17,28 @@ Official public download page and release notes for **tfastdigital UnlockTool Lo
 
 1. Join the official Telegram channel **[@tfasthub](https://t.me/tfasthub)**.
 2. Open **[@tfastunlocker_bot](https://t.me/tfastunlocker_bot)** and generate your PC license key.
-3. Download and run **`tfastdigital-UnlockTool-2026.11.17.0-Setup.exe`** as Administrator (installs both **UnlockTool 2026.11.17.0** and **tfastdigital Loader**).
-4. Launch **tfastdigital Loader**, accept the Terms & Conditions, paste your license key to activate, and click **START**.
+3. Download and run **`UnlockTool-loader ALLINONE V1.0.8 -2026.11.23.0-Setup.exe`** as Administrator (installs both **UnlockTool 2026.11.17.0** and **tfastdigital Unlocktool loader v1.0.8.exe**).
+4. Launch **tfastdigital Unlocktool loader v1.0.8**, accept the Terms & Conditions, paste your license key to activate, and click **START**.
+
+---
+
+## Loader Version History (Changelog)
+
+### `v1.0.8` — `2026-11-23` (Latest)
+- Renamed All-in-One installer to **`UnlockTool-loader ALLINONE V1.0.8 -2026.11.23.0-Setup.exe`** and loader executable to **`tfastdigital Unlocktool loader v1.0.8.exe`**.
+- Fixed false **VIP EXPIRED** status badge on active VIP licenses & short-duration VIP trials.
+- Fixed **`HTTP/1.1 503 - State : Query Info`** fallback so UnlockTool launches reliably even during upstream server hiccups.
+- Fixed default target path to **`C:\UnlockTool\UnlockTool.exe`** (while still allowing custom browse via `...`).
+- Added atomic per-key VIP persistence, flexible VIP trial durations (minutes, hours, days), and **`🔍 My Status`** / VIP key lookup in `@tfastunlocker_bot` showing which PC is using your license.
+
+### `v1.0.7` — `2026-11-23`
+- Added **System Fix / AV** popup (1-click Windows Defender/AV exclusions, Firewall rules, and IPv6 disable) to fix socket permission (`10013`) errors.
+- Added automatic pre-launch port clearing (`80, 443, 8080, 8090-8093, 8899, 9099`), `winnat` reset, DNS flush, and Windows Time sync.
+- Launched the **Telegram Mini App**, **2-way Live Support Chat** with read/seen receipts, and **Ban Appeals** in `@tfastunlocker_bot`.
+- Added machine-bound DPAPI + AES-256-GCM account data protection.
+
+### `v1.0.6` — `2026-11-21` to `2026-11-22`
+- Initial `UnlockTool 2026.11.17.0` All-in-One Setup release with `@tfastunlocker_bot` live membership verification, Upstash Redis persistence, dark-glass security dialogs, non-banning Windows Date & Time sync check, and Admin Reset PC Lock.
 
 ---
 
